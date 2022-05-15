@@ -1,5 +1,5 @@
 package com.git;
 
 public class X {
-    wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+    rewrew
 }
