@@ -1,5 +1,5 @@
 package com.git;
 
 public class A {
-dfdgfdgfh22222222333333333333
+  String s="This is a new String";
 }
